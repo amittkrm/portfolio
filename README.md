@@ -43,15 +43,15 @@ Welcome to my GitHub portfolio! I'm a passionate full-stack web developer with e
 
 ## 📂 Featured Projects
 
-### 💼 [Job Portal Web App](https://github.com/yourusername/job-portal)
+### 💼 [Job Portal Web App](https://github.com/amittkrm/job-portal)
 A full-stack web application with features like job browsing, authentication, filtering, searching, and an admin panel.  
 **Tech Stack:** React, Node.js, MongoDB, JWT, Redux Toolkit
 
-### 💬 [Real-Time Chat Application](https://github.com/yourusername/chat-app)
+### 💬 [Real-Time Chat Application](https://github.com/amittkrm/chat-application)
 A real-time chat application where users can chat with others instantly using WebSockets.  
 **Tech Stack:** React, MongoDB, Express, Socket.IO
 
-### ✅ [ToDo Web Application](https://github.com/yourusername/todo-app)
+### ✅ [ToDo Web Application]
 A full-stack to-do list app with authentication, task management features, and a responsive UI.  
 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS
 
